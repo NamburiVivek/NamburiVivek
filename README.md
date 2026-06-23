@@ -1,22 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Namburi%20Vivek&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20React.js%20%7C%20Node.js%20%7C%20CS%20Undergrad%20%40%20Amrita&descAlignY=60&descSize=18&descColor=c084fc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5&height=200&section=header&text=Namburi%20Vivek&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20React.js%20%7C%20Node.js%20%7C%20CS%20Undergrad%20%40%20Amrita&descAlignY=60&descSize=18&descColor=FFC107" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Full+Stack+Web+Developer+%7C+React.js+%7C+Node.js;Java+Developer+%7C+OOP+%7C+Data+Structures;Building+Practical+Projects+with+Real+Impact;CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
-![Amrita](https://img.shields.io/badge/Amrita%20Vishwa%20Vidyapeetham-2024%20Batch-6D28D9?style=flat-square&logo=university&logoColor=white)
-![Location](https://img.shields.io/badge/Coimbatore%2C%20India-0F172A?style=flat-square&logo=googlemaps&logoColor=A855F7)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Full+Stack+Web+Developer+%7C+React.js+%7C+Node.js;Java+Developer+%7C+OOP+%7C+Data+Structures;Building+Practical+Projects+with+Real+Impact;CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,10 +14,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Namburi-Vivek)
-[![GitHub](https://img.shields.io/badge/GitHub-NamburiVivek-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NamburiVivek)
-[![Email](https://img.shields.io/badge/Email-viveknamburi%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveknamburi@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209390626483-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919390626483)
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-FFD700?style=flat-square&logo=graduation-cap&logoColor=000000&labelColor=1a1a1a)
+![Amrita](https://img.shields.io/badge/Amrita%20Vishwa%20Vidyapeetham-2024%20Batch-FFC107?style=flat-square&logo=university&logoColor=000000&labelColor=1a1a1a)
+![Location](https://img.shields.io/badge/Coimbatore%2C%20India-000000?style=flat-square&logo=googlemaps&logoColor=FFD700)
 
 </div>
 
@@ -35,9 +24,20 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=NamburiVivek&style=flat-square&color=7C3AED&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/NamburiVivek?style=flat-square&color=6D28D9&label=Followers&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/NamburiVivek?style=flat-square&color=4C1D95&label=Total+Stars&logo=github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=1a1a1a)](https://linkedin.com/in/Namburi-Vivek)
+[![GitHub](https://img.shields.io/badge/GitHub-NamburiVivek-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/NamburiVivek)
+[![Email](https://img.shields.io/badge/Email-viveknamburi%40gmail.com-FFC107?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=1a1a1a)](mailto:viveknamburi@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209390626483-FFD700?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=1a1a1a)](tel:+919390626483)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=NamburiVivek&style=flat-square&color=FFD700&label=Profile+Views&labelColor=1a1a1a)
+![GitHub Followers](https://img.shields.io/github/followers/NamburiVivek?style=flat-square&color=FFC107&label=Followers&logo=github&labelColor=1a1a1a)
+![GitHub Stars](https://img.shields.io/github/stars/NamburiVivek?style=flat-square&color=FFD700&label=Total+Stars&logo=github&labelColor=1a1a1a)
 
 </div>
 
@@ -70,10 +70,10 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 <br/>
 
 **Open To:**&nbsp;&nbsp;
-![Internships](https://img.shields.io/badge/Software%20Engineering%20Internships-7C3AED?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source%20Contributions-6D28D9?style=flat-square)
-![Collaborations](https://img.shields.io/badge/Project%20Collaborations-4C1D95?style=flat-square)
-![Campus Roles](https://img.shields.io/badge/Campus%20Tech%20Roles-3730A3?style=flat-square)
+![Internships](https://img.shields.io/badge/Software%20Engineering%20Internships-FFD700?style=flat-square&logoColor=000000&labelColor=000000)
+![Open Source](https://img.shields.io/badge/Open%20Source%20Contributions-FFC107?style=flat-square&labelColor=1a1a1a)
+![Collaborations](https://img.shields.io/badge/Project%20Collaborations-FFD700?style=flat-square&labelColor=1a1a1a)
+![Campus Roles](https://img.shields.io/badge/Campus%20Tech%20Roles-FFC107?style=flat-square&labelColor=000000)
 
 ---
 
@@ -131,7 +131,7 @@ A full-stack e-commerce web application built for browsing, searching, and purch
 | **Performance** | Component-based architecture for fast re-renders · optimized DB queries for product/order data |
 | **Security** | Secure user authentication · session management · protected routes |
 | **Impact** | End-to-end functional e-commerce system demonstrating full stack integration across frontend, backend, and database layers |
-| **Repository** | [![GitHub](https://img.shields.io/badge/Ofoods26--Ecommerce-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/NamburiVivek/Ofoods26-Ecommerce) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/Ofoods26--Ecommerce-FFD700?style=flat-square&logo=github&logoColor=000000&labelColor=1a1a1a)](https://github.com/NamburiVivek/Ofoods26-Ecommerce) |
 
 </div>
 
@@ -157,7 +157,7 @@ A full-stack web application that simulates real stock trading with portfolio tr
 | **Performance** | Dynamic balance updates on every transaction · real-time dashboard reflecting current holdings |
 | **Security** | Password encryption · session management · CSRF protection on all state-changing operations |
 | **Impact** | Demonstrates production-grade web app security practices and relational DB design for financial data |
-| **Repository** | [![GitHub](https://img.shields.io/badge/Nova--Capital-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/NamburiVivek) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/Nova--Capital-FFC107?style=flat-square&logo=github&logoColor=000000&labelColor=1a1a1a)](https://github.com/NamburiVivek) |
 
 </div>
 
@@ -183,7 +183,7 @@ A Java-based desktop application for managing airline ticket reservations end-to
 | **Performance** | Responsive Swing GUI · efficient in-memory ArrayList operations for flight and customer data |
 | **Security** | Input validation across all booking and payment flows · structured error handling |
 | **Impact** | Demonstrates mastery of OOP design patterns, GUI development, and system architecture with UML class diagrams |
-| **Repository** | [![GitHub](https://img.shields.io/badge/Airline--Reservation--System-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/NamburiVivek/Airline-Reservation-System) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/Airline--Reservation--System-FFD700?style=flat-square&logo=github&logoColor=000000&labelColor=1a1a1a)](https://github.com/NamburiVivek/Airline-Reservation-System) |
 
 </div>
 
@@ -208,7 +208,7 @@ Runtime and code files for the eXpOS (Experimental Operating System) project, de
 | **Course** | 23CSE214 — Operating Systems |
 | **Focus** | System calls, process management, memory management, OS runtime design |
 | **Impact** | Hands-on understanding of low-level OS internals and systems programming |
-| **Repository** | [![GitHub](https://img.shields.io/badge/Myexpos-3730A3?style=flat-square&logo=github&logoColor=white)](https://github.com/NamburiVivek/Myexpos) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/Myexpos-FFC107?style=flat-square&logo=github&logoColor=000000&labelColor=1a1a1a)](https://github.com/NamburiVivek/Myexpos) |
 
 </div>
 
@@ -232,7 +232,7 @@ A Python-based personal finance tracking interface developed collaboratively by 
 | **Performance** | Lightweight CLI with fast I/O · structured data organization for quick reporting |
 | **Security** | Input sanitization · structured exception handling for invalid entries |
 | **Impact** | First collaborative engineering project — reinforced version control, modular code design, and team workflows |
-| **Repository** | [![GitHub](https://img.shields.io/badge/Personal--Finance--Tracker-3730A3?style=flat-square&logo=github&logoColor=white)](https://github.com/NamburiVivek/Personal-Finance-Tracker) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/Personal--Finance--Tracker-FFD700?style=flat-square&logo=github&logoColor=000000&labelColor=1a1a1a)](https://github.com/NamburiVivek/Personal-Finance-Tracker) |
 
 </div>
 
@@ -257,11 +257,11 @@ Currently in my first year of B.Tech CSE at Amrita Vishwa Vidyapeetham, one of I
 - Participant in Live-in-Labs, NCC, and NSS programs for leadership and community development
 - Actively developing DSA skills for competitive programming and engineering interviews
 
-![Java](https://img.shields.io/badge/Java-7C3AED?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-4C1D95?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-3730A3?style=flat-square)
-![DBMS](https://img.shields.io/badge/DBMS-1E1B4B?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFD700?style=flat-square&logo=openjdk&logoColor=000000&labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python-FFC107?style=flat-square&logo=python&logoColor=000000&labelColor=1a1a1a)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-FFD700?style=flat-square&labelColor=1a1a1a)
+![OOP](https://img.shields.io/badge/OOP-FFC107?style=flat-square&labelColor=1a1a1a)
+![DBMS](https://img.shields.io/badge/DBMS-FFD700?style=flat-square&logo=mysql&logoColor=000000&labelColor=1a1a1a)
 
 <br/>
 
@@ -295,15 +295,15 @@ Completed MPC stream with a strong quantitative foundation. Narayana Junior Coll
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=NamburiVivek&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&ring_color=7C3AED&count_private=true&include_all_commits=true" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=NamburiVivek&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFC107&text_color=F5F5F5&ring_color=FFD700&count_private=true&include_all_commits=true" />
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamburiVivek&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=C4B5FD&langs_count=6" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamburiVivek&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=F5F5F5&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NamburiVivek&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=A855F7&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&currStreakNum=A855F7&sideNums=A855F7" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NamburiVivek&theme=highcontrast&hide_border=true&background=0D0D0D&ring=FFD700&fire=FFC107&currStreakLabel=FFD700&sideLabels=F5F5F5&dates=888888&currStreakNum=FFD700&sideNums=FFD700" />
 
 </div>
 
@@ -313,7 +313,7 @@ Completed MPC stream with a strong quantitative foundation. Narayana Junior Coll
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NamburiVivek&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NamburiVivek&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -323,7 +323,7 @@ Completed MPC stream with a strong quantitative foundation. Narayana Junior Coll
 
 <div align="center">
 
-[![Vivek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamburiVivek&bg_color=0D0D1A&color=A855F7&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2012%20Months)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vivek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamburiVivek&bg_color=0D0D0D&color=FFD700&line=FFC107&point=FFFFFF&area=true&area_color=3a2e00&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2012%20Months)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -375,13 +375,13 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-viveknamburi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveknamburi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-viveknamburi%40gmail.com-FFD700?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=1a1a1a)](mailto:viveknamburi@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Namburi-Vivek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-FFC107?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=1a1a1a)](https://linkedin.com/in/Namburi-Vivek)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-NamburiVivek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NamburiVivek)
+[![GitHub](https://img.shields.io/badge/GitHub-NamburiVivek-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/NamburiVivek)
 &nbsp;
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209390626483-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919390626483)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209390626483-FFD700?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=1a1a1a)](tel:+919390626483)
 
 </div>
 
@@ -397,6 +397,6 @@ current_focus:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5&height=120&section=footer&animation=fadeIn" />
 
 </div>
