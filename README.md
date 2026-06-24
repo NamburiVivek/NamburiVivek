@@ -43,9 +43,9 @@
 
 ---
 
-## `$ whoami`
+## `About Me`
 
-I'm **Namburi Vivek**, a Full Stack Developer and B.Tech CSE student at Amrita Vishwa Vidyapeetham, Coimbatore (2024 – Present). I can be reached at viveknamburi@gmail.com or +91 9390626483.
+I'm **Namburi Vivek**, a Full Stack Developer and B.Tech CSE student at Amrita Vishwa Vidyapeetham, Coimbatore (2024 – Present).
 
 I focus on full stack web development, Java & OOP, and database design. Currently building production-grade web apps and sharpening my DSA fundamentals.
 
@@ -157,7 +157,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-viveknamburi%40gmail.com-FFD700?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=1a1a1a)](mailto:viveknamburi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-viveknamburi%40gmail.com-FFD700?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=1a1a1a)](mailto:viveknamburi95@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-FFC107?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=1a1a1a)](https://linkedin.com/in/Namburi-Vivek)
 &nbsp;
