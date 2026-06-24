@@ -101,7 +101,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 ---
 
-## `$ gh analytics --user NamburiVivek`
+## `gh analytics --user NamburiVivek`
 
 <div align="center">
 
@@ -119,17 +119,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 ---
 
-## `$ gh trophies --user NamburiVivek`
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NamburiVivek&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## `$ git log --graph --oneline`
+## `git log --graph --oneline`
 
 <div align="center">
 
