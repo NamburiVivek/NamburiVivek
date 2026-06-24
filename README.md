@@ -13,32 +13,42 @@
 <br/>
 
 <div align="center">
-
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-FFD700?style=flat-square&logo=graduation-cap&logoColor=000000&labelColor=1a1a1a)
-![Amrita](https://img.shields.io/badge/Amrita%20Vishwa%20Vidyapeetham-2024%20Batch-FFC107?style=flat-square&logo=university&logoColor=000000&labelColor=1a1a1a)
-![Location](https://img.shields.io/badge/Coimbatore%2C%20India-000000?style=flat-square&logo=googlemaps&logoColor=FFD700)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=1a1a1a)](https://linkedin.com/in/Namburi-Vivek)
-[![GitHub](https://img.shields.io/badge/GitHub-NamburiVivek-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/NamburiVivek)
-[![Email](https://img.shields.io/badge/Email-viveknamburi%40gmail.com-FFC107?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=1a1a1a)](mailto:viveknamburi@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209390626483-FFD700?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=1a1a1a)](tel:+919390626483)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=NamburiVivek&style=flat-square&color=FFD700&label=Profile+Views&labelColor=1a1a1a)
-![GitHub Followers](https://img.shields.io/github/followers/NamburiVivek?style=flat-square&color=FFC107&label=Followers&logo=github&labelColor=1a1a1a)
-![GitHub Stars](https://img.shields.io/github/stars/NamburiVivek?style=flat-square&color=FFD700&label=Total+Stars&logo=github&labelColor=1a1a1a)
-
+<table>
+  <tr>
+    <td align="center" width="200"><b>🎓 Degree</b></td>
+    <td>B.Tech — Computer Science & Engineering</td>
+    <td align="center" width="200"><b>🏛️ University</b></td>
+    <td>Amrita Vishwa Vidyapeetham, Coimbatore</td>
+  </tr>
+  <tr>
+    <td align="center"><b>📅 Batch</b></td>
+    <td>2024 – Present</td>
+    <td align="center"><b>📍 Location</b></td>
+    <td>Coimbatore, India</td>
+  </tr>
+  <tr>
+    <td align="center"><b>💼 LinkedIn</b></td>
+    <td><a href="https://linkedin.com/in/Namburi-Vivek">Namburi Vivek</a></td>
+    <td align="center"><b>🐙 GitHub</b></td>
+    <td><a href="https://github.com/NamburiVivek">NamburiVivek</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📧 Email</b></td>
+    <td><a href="mailto:viveknamburi@gmail.com">viveknamburi@gmail.com</a></td>
+    <td align="center"><b>📞 Phone</b></td>
+    <td><a href="tel:+919390626483">+91 9390626483</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>👁️ Profile Views</b></td>
+    <td><img src="https://komarev.com/ghpvc/?username=NamburiVivek&style=flat-square&color=FFD700&label=Views&labelColor=1a1a1a" /></td>
+    <td align="center"><b>⭐ GitHub Stats</b></td>
+    <td>
+      <img src="https://img.shields.io/github/followers/NamburiVivek?style=flat-square&color=FFC107&label=Followers&logo=github&labelColor=1a1a1a" />
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/NamburiVivek?style=flat-square&color=FFD700&label=Stars&logo=github&labelColor=1a1a1a" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
