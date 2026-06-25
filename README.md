@@ -55,39 +55,26 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 ## Tech Stack
 
-### Languages
+<div>
 
-<div align="center">
 
 [![Skill Icons](https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark)](https://skillicons.dev)
 
-</div>
 
-### Frontend
-
-<div align="center">
 
 [![Skill Icons](https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
-</div>
 
-### Backend & Databases
-
-<div align="center">
 
 [![Skill Icons](https://skillicons.dev/icons?i=nodejs,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
-</div>
 
-### Tools & Platforms
-
-<div align="center">
 
 [![Skill Icons](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
+
 
 ## Pinned Projects
 
