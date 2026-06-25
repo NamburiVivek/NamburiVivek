@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td align="center"><b>📧 Email</b></td>
-    <td><a href="mailto:viveknamburi95@gmail.com">viveknamburi@gmail.com</a></td>
+    <td><a href="mailto:viveknamburi95@gmail.com">viveknamburi95@gmail.com</a></td>
     <td align="center"><b>📞 Phone</b></td>
     <td><a href="tel:+919390626483">+91 9390626483</a></td>
   </tr>
