@@ -147,7 +147,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-viveknamburi%40gmail.com-FFD700?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=1a1a1a)](mailto:viveknamburi95@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-viveknamburi95%40gmail.com-FFD700?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=1a1a1a)](mailto:viveknamburi95@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-FFC107?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=1a1a1a)](https://linkedin.com/in/Namburi-Vivek)
 &nbsp;
