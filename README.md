@@ -34,19 +34,9 @@
   </tr>
   <tr>
     <td align="center"><b>📧 Email</b></td>
-    <td><a href="mailto:viveknamburi@gmail.com">viveknamburi@gmail.com</a></td>
+    <td><a href="mailto:viveknamburi95@gmail.com">viveknamburi@gmail.com</a></td>
     <td align="center"><b>📞 Phone</b></td>
     <td><a href="tel:+919390626483">+91 9390626483</a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>👁️ Profile Views</b></td>
-    <td><img src="https://komarev.com/ghpvc/?username=NamburiVivek&style=flat-square&color=FFD700&label=Views&labelColor=1a1a1a" /></td>
-    <td align="center"><b>⭐ GitHub Stats</b></td>
-    <td>
-      <img src="https://img.shields.io/github/followers/NamburiVivek?style=flat-square&color=FFC107&label=Followers&logo=github&labelColor=1a1a1a" />
-      &nbsp;
-      <img src="https://img.shields.io/github/stars/NamburiVivek?style=flat-square&color=FFD700&label=Stars&logo=github&labelColor=1a1a1a" />
-    </td>
   </tr>
 </table>
 </div>
@@ -75,7 +65,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 ---
 
-## `$ ls ./tech-stack`
+## `ls ./tech-stack`
 
 ### Languages
 
@@ -139,7 +129,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 ---
 
-## `$ watch ./snake.sh`
+## `watch ./snake.sh`
 
 <div align="center">
 
@@ -153,7 +143,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 ---
 
-## `$ open ./connect`
+## `open ./connect`
 
 <div align="center">
 
