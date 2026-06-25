@@ -43,7 +43,7 @@
 
 ---
 
-## `About Me`
+## About Me
 
 I'm **Namburi Vivek**, a Full Stack Developer and B.Tech CSE student at Amrita Vishwa Vidyapeetham, Coimbatore (2024 – Present).
 
@@ -65,7 +65,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 ---
 
-## `ls ./tech-stack`
+## Tech Stack
 
 ### Languages
 
@@ -101,7 +101,52 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 ---
 
-## `gh analytics --user NamburiVivek`
+## Pinned Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📦 <a href="https://github.com/NamburiVivek/Ofoods26-Ecommerce">Ofoods26-Ecommerce</a></h3>
+      <p>Full Stack E-Commerce Web Application for traditional Andhra food products with authentication, cart, checkout, delivery system, Node.js, Express.js, and MySQL integration.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>📦 <a href="https://github.com/HackstreetBoyzz/Stock-Market-Trading-web-Application">Stock-Market-Trading-web-Application</a></h3>
+      <p><b>Nova Capital</b> is a stock market portfolio web app built using HTML, CSS, JS, PHP & MySQL. It features user login/signup, a $10,000 bonus, stock buying/selling (6 companies), transaction history and more.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📦 <a href="https://github.com/NamburiVivek/Personal-Finance-Tracker">Personal-Finance-Tracker</a></h3>
+      <p>A Python-based CLI interface developed by four first-year Computer Science students as a practical project. Designed with simplicity and usability in mind.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>📦 <a href="https://github.com/NamburiVivek/Airline-Reservation-System">Airline-Reservation-System</a></h3>
+      <p>A Java-based desktop application designed to manage airline ticket reservations efficiently. Built using Java Swing for the GUI and ArrayList for data storage.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📦 <a href="https://github.com/NamburiVivek/Myexpos">Myexpos</a></h3>
+      <p>Contains runtime and code files for expos for the partial evaluation of the OS course 23CSE214 — Operating Systems.</p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>📦 <a href="https://github.com/HackstreetBoyzz/Autonomus-Robot-Navigation-System">Autonomus-Robot-Navigation-System</a></h3>
+      <p>Autonomous Robot Navigation System built using Arduino UNO R4 with C programming and a web-based BLE controller. Features obstacle avoidance, line following, and manual control modes.</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
@@ -119,7 +164,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 ---
 
-## `git log --graph --oneline`
+## Contribution Activity
 
 <div align="center">
 
@@ -129,7 +174,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 ---
 
-## `watch ./snake.sh`
+## GitHub Snake
 
 <div align="center">
 
@@ -143,7 +188,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 ---
 
-## `open ./connect`
+## Connect
 
 <div align="center">
 
@@ -154,7 +199,5 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 [![GitHub](https://img.shields.io/badge/GitHub-NamburiVivek-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/NamburiVivek)
 &nbsp;
 [![Phone](https://img.shields.io/badge/Phone-%2B91%209390626483-FFD700?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=1a1a1a)](tel:+919390626483)
-
-</div>
 
 </div>
