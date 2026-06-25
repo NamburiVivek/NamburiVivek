@@ -102,7 +102,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 <div align="center">
 
-[![Vivek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamburiVivek&bg_color=0D0D0D&color=38bdf8&line=0ea5e9&point=FFFFFF&area=true&area_color=1e3a5f&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2012%20Months)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vivek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamburiVivek&bg_color=0D0D0D&color=38bdf8&line=0ea5e9&point=FFFFFF&area=true&area_color=1e3a5f&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2012%20Months)](https://github.com/NamburiVivek)
 
 </div>
 
