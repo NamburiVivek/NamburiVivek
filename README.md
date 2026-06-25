@@ -1,44 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5&height=200&section=header&text=Namburi%20Vivek&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20React.js%20%7C%20Node.js%20%7C%20CS%20Undergrad%20%40%20Amrita&descAlignY=60&descSize=18&descColor=FFC107" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:0ea5e9&height=200&section=header&text=Namburi%20Vivek&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20React.js%20%7C%20Node.js%20%7C%20CS%20Undergrad%20%40%20Amrita&descAlignY=60&descSize=18&descColor=93c5fd" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Full+Stack+Web+Developer+%7C+React.js+%7C+Node.js;Java+Developer+%7C+OOP+%7C+Data+Structures;Building+Practical+Projects+with+Real+Impact;CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Full+Stack+Web+Developer+%7C+React.js+%7C+Node.js;Java+Developer+%7C+OOP+%7C+Data+Structures;Building+Practical+Projects+with+Real+Impact;CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="200"><b>🎓 Degree</b></td>
-    <td>B.Tech — Computer Science & Engineering</td>
-    <td align="center" width="200"><b>🏛️ University</b></td>
-    <td>Amrita Vishwa Vidyapeetham, Coimbatore</td>
-  </tr>
-  <tr>
-    <td align="center"><b>📅 Batch</b></td>
-    <td>2024 – Present</td>
-    <td align="center"><b>📍 Location</b></td>
-    <td>Coimbatore, India</td>
-  </tr>
-  <tr>
-    <td align="center"><b>💼 LinkedIn</b></td>
-    <td><a href="https://linkedin.com/in/Namburi-Vivek">Namburi Vivek</a></td>
-    <td align="center"><b>🐙 GitHub</b></td>
-    <td><a href="https://github.com/NamburiVivek">NamburiVivek</a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>📧 Email</b></td>
-    <td><a href="mailto:viveknamburi95@gmail.com">viveknamburi95@gmail.com</a></td>
-    <td align="center"><b>📞 Phone</b></td>
-    <td><a href="tel:+919390626483">+91 9390626483</a></td>
-  </tr>
-</table>
+
+![Location](https://img.shields.io/badge/📍%20Coimbatore%2C%20India-1e293b?style=flat-square&logoColor=white)
+![University](https://img.shields.io/badge/🏛%20Amrita%20Vishwa%20Vidyapeetham-1e40af?style=flat-square&logoColor=white)
+![Degree](https://img.shields.io/badge/🎓%20B.Tech%20CSE-0f172a?style=flat-square&logoColor=white)
+![Batch](https://img.shields.io/badge/📅%202024%20–%20Present-1e293b?style=flat-square&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/▲%20PORTFOLIO-0f172a?style=for-the-badge&logoColor=white)](https://github.com/NamburiVivek/My-Protfolio)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Namburi-Vivek)
+[![Email](https://img.shields.io/badge/GMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveknamburi95@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NamburiVivek)
+[![Phone](https://img.shields.io/badge/📞%20%2B91%209390626483-1e293b?style=for-the-badge&logoColor=white)](tel:+919390626483)
+
 </div>
 
 ---
@@ -150,15 +138,15 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=NamburiVivek&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFC107&text_color=F5F5F5&ring_color=FFD700&count_private=true&include_all_commits=true" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=NamburiVivek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=F5F5F5&ring_color=1e40af&count_private=true&include_all_commits=true" />
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamburiVivek&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=F5F5F5&langs_count=6" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamburiVivek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&text_color=F5F5F5&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NamburiVivek&theme=highcontrast&hide_border=true&background=0D0D0D&ring=FFD700&fire=FFC107&currStreakLabel=FFD700&sideLabels=F5F5F5&dates=888888&currStreakNum=FFD700&sideNums=FFD700" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NamburiVivek&theme=tokyonight&hide_border=true&background=0D0D0D&ring=1e40af&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=F5F5F5&dates=888888&currStreakNum=38bdf8&sideNums=38bdf8" />
 
 </div>
 
@@ -168,7 +156,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 <div align="center">
 
-[![Vivek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamburiVivek&bg_color=0D0D0D&color=FFD700&line=FFC107&point=FFFFFF&area=true&area_color=3a2e00&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2012%20Months)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vivek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamburiVivek&bg_color=0D0D0D&color=38bdf8&line=0ea5e9&point=FFFFFF&area=true&area_color=1e3a5f&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2012%20Months)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -192,12 +180,12 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-viveknamburi95%40gmail.com-FFD700?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=1a1a1a)](mailto:viveknamburi95@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-viveknamburi95%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:viveknamburi95@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-FFC107?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=1a1a1a)](https://linkedin.com/in/Namburi-Vivek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://linkedin.com/in/Namburi-Vivek)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-NamburiVivek-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/NamburiVivek)
+[![GitHub](https://img.shields.io/badge/GitHub-NamburiVivek-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NamburiVivek)
 &nbsp;
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209390626483-FFD700?style=for-the-badge&logo=whatsapp&logoColor=000000&labelColor=1a1a1a)](tel:+919390626483)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209390626483-25d366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](tel:+919390626483)
 
 </div>
