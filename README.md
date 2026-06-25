@@ -157,18 +157,4 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 </div>
 
-<br/>
-
-<div align="center">
-
-*Good software is built one project at a time — ship something real, learn from it, and build something better.*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5&height=120&section=footer&animation=fadeIn" />
-
 </div>
