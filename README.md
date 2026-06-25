@@ -84,15 +84,15 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=NamburiVivek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=F5F5F5&ring_color=1e40af&count_private=true&include_all_commits=true" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=NamburiVivek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=F5F5F5&ring_color=1e40af" />
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamburiVivek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&text_color=F5F5F5&langs_count=6" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamburiVivek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&text_color=F5F5F5&langs_count=6&exclude_repo=NamburiVivek" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NamburiVivek&theme=tokyonight&hide_border=true&background=0D0D0D&ring=1e40af&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=F5F5F5&dates=888888&currStreakNum=38bdf8&sideNums=38bdf8" />
+<img src="https://streak-stats.demolab.com?user=NamburiVivek&theme=tokyonight&hide_border=true&background=0D0D0D&ring=1e40af&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=F5F5F5&dates=888888&currStreakNum=38bdf8&sideNums=38bdf8" />
 
 </div>
 
