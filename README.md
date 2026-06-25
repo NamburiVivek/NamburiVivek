@@ -22,7 +22,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/▲%20PORTFOLIO-0f172a?style=for-the-badge&logoColor=white)](https://github.com/NamburiVivek/My-Protfolio)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namburi-vivek-31a60334a)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Namburi-Vivek)
 [![Email](https://img.shields.io/badge/GMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveknamburi95@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NamburiVivek)
 [![Phone](https://img.shields.io/badge/📞%20%2B91%209390626483-1e293b?style=for-the-badge&logoColor=white)](tel:+919390626483)
@@ -46,72 +46,36 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 <br/>
 
 **Open To:**&nbsp;&nbsp;
-![Internships](https://img.shields.io/badge/Software%20Engineering%20Internships-FFD700?style=flat-square&logoColor=000000&labelColor=000000)
-![Open Source](https://img.shields.io/badge/Open%20Source%20Contributions-FFC107?style=flat-square&labelColor=1a1a1a)
-![Collaborations](https://img.shields.io/badge/Project%20Collaborations-FFD700?style=flat-square&labelColor=1a1a1a)
-![Campus Roles](https://img.shields.io/badge/Campus%20Tech%20Roles-FFC107?style=flat-square&labelColor=000000)
+![Internships](https://img.shields.io/badge/Software%20Engineering%20Internships-1e40af?style=flat-square&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source%20Contributions-0369a1?style=flat-square&logoColor=white)
+![Collaborations](https://img.shields.io/badge/Project%20Collaborations-0f172a?style=flat-square&logoColor=white)
+![Campus Roles](https://img.shields.io/badge/Campus%20Tech%20Roles-1e293b?style=flat-square&logoColor=white)
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb&theme=dark" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-  </a>
+
+[![Skill Icons](https://skillicons.dev/icons?i=java,python,c,javascript,react,html,css,bootstrap,nodejs,mysql,mongodb,git,github,vscode&theme=dark)](https://skillicons.dev)
+
 </div>
 
+---
 
 ## Pinned Projects
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/NamburiVivek/Ofoods26-Ecommerce">Ofoods26-Ecommerce</a></h3>
-      <p>Full Stack E-Commerce Web Application for traditional Andhra food products with authentication, cart, checkout, delivery system, Node.js, Express.js, and MySQL integration.</p>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/HackstreetBoyzz/Stock-Market-Trading-web-Application">Stock-Market-Trading-web-Application</a></h3>
-      <p><b>Nova Capital</b> is a stock market portfolio web app built using HTML, CSS, JS, PHP & MySQL. It features user login/signup, a $10,000 bonus, stock buying/selling (6 companies), transaction history and more.</p>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/NamburiVivek/Personal-Finance-Tracker">Personal-Finance-Tracker</a></h3>
-      <p>A Python-based CLI interface developed by four first-year Computer Science students as a practical project. Designed with simplicity and usability in mind.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/NamburiVivek/Airline-Reservation-System">Airline-Reservation-System</a></h3>
-      <p>A Java-based desktop application designed to manage airline ticket reservations efficiently. Built using Java Swing for the GUI and ArrayList for data storage.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/NamburiVivek/Myexpos">Myexpos</a></h3>
-      <p>Contains runtime and code files for expos for the partial evaluation of the OS course 23CSE214 — Operating Systems.</p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/HackstreetBoyzz/Autonomus-Robot-Navigation-System">Autonomus-Robot-Navigation-System</a></h3>
-      <p>Autonomous Robot Navigation System built using Arduino UNO R4 with C programming and a web-based BLE controller. Features obstacle avoidance, line following, and manual control modes.</p>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-    </td>
-  </tr>
-</table>
+
+[![Ofoods26-Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=NamburiVivek&repo=Ofoods26-Ecommerce&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8)](https://github.com/NamburiVivek/Ofoods26-Ecommerce)
+[![Stock-Market-Trading-web-Application](https://github-readme-stats.vercel.app/api/pin/?username=HackstreetBoyzz&repo=Stock-Market-Trading-web-Application&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8)](https://github.com/HackstreetBoyzz/Stock-Market-Trading-web-Application)
+
+[![Personal-Finance-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=NamburiVivek&repo=Personal-Finance-Tracker&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8)](https://github.com/NamburiVivek/Personal-Finance-Tracker)
+[![Airline-Reservation-System](https://github-readme-stats.vercel.app/api/pin/?username=NamburiVivek&repo=Airline-Reservation-System&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8)](https://github.com/NamburiVivek/Airline-Reservation-System)
+
+[![Myexpos](https://github-readme-stats.vercel.app/api/pin/?username=NamburiVivek&repo=Myexpos&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8)](https://github.com/NamburiVivek/Myexpos)
+[![Autonomus-Robot-Navigation-System](https://github-readme-stats.vercel.app/api/pin/?username=HackstreetBoyzz&repo=Autonomus-Robot-Navigation-System&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8)](https://github.com/HackstreetBoyzz/Autonomus-Robot-Navigation-System)
+
 </div>
 
 ---
@@ -164,7 +128,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 [![Gmail](https://img.shields.io/badge/Gmail-viveknamburi95%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:viveknamburi95@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/namburi-vivek-31a60334a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://linkedin.com/in/Namburi-Vivek)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-NamburiVivek-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NamburiVivek)
 &nbsp;
