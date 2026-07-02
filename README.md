@@ -22,7 +22,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/▲%20PORTFOLIO-0f172a?style=for-the-badge&logoColor=white)](https://github.com/NamburiVivek/My-Protfolio)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/namburi-vivek-31a60334a)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namburi-vivek-31a60334a/)
 [![Email](https://img.shields.io/badge/GMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveknamburi95@gmail.com)
 [![Phone](https://img.shields.io/badge/📞%20%2B91%209390626483-1e293b?style=for-the-badge&logoColor=white)](tel:+919390626483)
 
@@ -114,7 +114,7 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 [![Gmail](https://img.shields.io/badge/Gmail-viveknamburi95%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:viveknamburi95@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](www.linkedin.com/in/namburi-vivek-31a60334a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/namburi-vivek-31a60334a/)
 &nbsp;
 [![Phone](https://img.shields.io/badge/Phone-%2B91%209390626483-25d366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](tel:+919390626483)
 
