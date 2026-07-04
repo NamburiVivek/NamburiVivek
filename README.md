@@ -21,7 +21,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/▲%20PORTFOLIO-0f172a?style=for-the-badge&logoColor=white)](https://github.com/NamburiVivek/My-Protfolio)
+[![Portfolio](https://img.shields.io/badge/▲%20PORTFOLIO-0f172a?style=for-the-badge&logoColor=white)](https://my-protfolio-flax-one.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namburi-vivek-31a60334a/)
 [![Email](https://img.shields.io/badge/GMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveknamburi95@gmail.com)
 [![Phone](https://img.shields.io/badge/📞%20%2B91%209390626483-1e293b?style=for-the-badge&logoColor=white)](tel:+919390626483)
