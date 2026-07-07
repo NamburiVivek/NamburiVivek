@@ -99,9 +99,6 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 ## Contribution Activity
 
-<div align="center">
-
-## Contribution Activity
 
 <div align="center">
 
