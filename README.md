@@ -1,79 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:0ea5e9&height=200&section=header&text=Namburi%20Vivek&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20React.js%20%7C%20Node.js%20%7C%20CS%20Undergrad%20%40%20Amrita&descAlignY=60&descSize=18&descColor=93c5fd" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:334155&height=170&section=header&text=Namburi%20Vivek&fontSize=56&fontColor=F8FAFC&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20NLP%20%7C%20Research&descAlignY=66&descSize=17&descColor=CBD5E1" alt="Namburi Vivek" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Full+Stack+Web+Developer+%7C+React.js+%7C+Node.js;Java+Developer+%7C+OOP+%7C+Data+Structures;Building+Practical+Projects+with+Real+Impact;CS+Undergrad+%40+Amrita+Vishwa+Vidyapeetham;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Location](https://img.shields.io/badge/📍%20Coimbatore%2C%20India-1e293b?style=flat-square&logoColor=white)
-![University](https://img.shields.io/badge/🏛%20Amrita%20Vishwa%20Vidyapeetham-1e40af?style=flat-square&logoColor=white)
-![Degree](https://img.shields.io/badge/🎓%20B.Tech%20CSE-0f172a?style=flat-square&logoColor=white)
-![Batch](https://img.shields.io/badge/📅%202024%20–%20Present-1e293b?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/Coimbatore%2C%20India-334155?style=flat-square)
+![University](https://img.shields.io/badge/Amrita%20Vishwa%20Vidyapeetham-1e293b?style=flat-square)
+![Degree](https://img.shields.io/badge/B.Tech%20CSE-334155?style=flat-square)
+![Batch](https://img.shields.io/badge/2024%20%E2%80%93%20Present-1e293b?style=flat-square)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/▲%20PORTFOLIO-0f172a?style=for-the-badge&logoColor=white)](https://my-protfolio-flax-one.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namburi-vivek-31a60334a/)
-[![Email](https://img.shields.io/badge/GMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveknamburi95@gmail.com)
-[![Phone](https://img.shields.io/badge/📞%20%2B91%209390626483-1e293b?style=for-the-badge&logoColor=white)](tel:+919390626483)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logo=vercel&logoColor=white)](https://my-protfolio-flax-one.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namburi-vivek-31a60334a/)
+[![Email](https://img.shields.io/badge/Email-475569?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveknamburi95@gmail.com)
+[![Phone](https://img.shields.io/badge/%2B91%209390626483-64748b?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919390626483)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm **Namburi Vivek**, a Full Stack Developer and B.Tech CSE student at Amrita Vishwa Vidyapeetham, Coimbatore (2024 – Present).
+Computer Science undergraduate at **Amrita Vishwa Vidyapeetham, Coimbatore** (CGPA 7.47), with experience in full-stack application development, Artificial Intelligence, and research.
 
-I focus on full stack web development, Java & OOP, and database design. Currently building production-grade web apps and sharpening my DSA fundamentals.
+I build end-to-end applications, from responsive React.js interfaces to REST APIs and relational databases, and I work on AI-powered conversational systems and LiDAR-based perception. My projects range from a live e-commerce business to a RAG-based banking assistant and embedded robotics.
 
-Engineering student focused on software development, data structures, and building practical projects. I enjoy building practical, end-to-end applications — from designing clean, responsive UIs in React.js to architecting backend services and relational databases that hold everything together.
+Beyond engineering, I take part in community programs: rural fieldwork through Live-in-Labs and leadership training through NCC.
 
-My project work spans e-commerce platforms, stock market portfolio systems, Java desktop applications, and OS coursework — each built with real-world scenarios, proper data management, and a focus on usability. I believe in learning by building, and every project I ship teaches me something new about systems, users, and clean code.
-
-Beyond engineering, I engage deeply with community-driven programs — from rural development fieldwork through the Live-in-Labs initiative to leadership training through NCC and social service through NSS.
-
-<br/>
-
-**Open To:**&nbsp;&nbsp;
-![Internships](https://img.shields.io/badge/Software%20Engineering%20Internships-1e40af?style=flat-square&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source%20Contributions-0369a1?style=flat-square&logoColor=white)
-![Collaborations](https://img.shields.io/badge/Project%20Collaborations-0f172a?style=flat-square&logoColor=white)
-![Campus Roles](https://img.shields.io/badge/Campus%20Tech%20Roles-1e293b?style=flat-square&logoColor=white)
+**Open to:** Software Engineering Internships · AI/ML Projects · Open Source Contributions · Research Collaborations
 
 ---
 
 ## Tech Stack
 
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, Java, C, JavaScript, SQL |
+| **Web Development** | HTML, CSS, React.js, Node.js, Express.js, FastAPI, REST APIs |
+| **Databases** | MySQL, MongoDB, Database Design |
+| **AI / ML** | NLP, Machine Learning, Sentence Transformers, LLMs, RAG, Model Evaluation |
+| **Cloud & Tools** | Vercel, Render, Aiven, Git, GitHub |
+| **Research & Embedded** | LiDAR Point Cloud Processing, ROS2, Arduino, Embedded Systems |
+
 <div align="center">
 
-[![Skill Icons](https://skillicons.dev/icons?i=java,python,c,javascript,react,html,css,bootstrap,nodejs,mysql,mongodb,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,express,fastapi,html,css,mysql,mongodb,git,github,vercel,arduino,vscode&theme=light)](https://skillicons.dev)
 
 </div>
 
 ---
 
+## Featured Projects
+
+### Ofoods: Live E-Commerce Application
+*Node.js · Express.js · MySQL · Razorpay* · Mar 2026 – Jun 2026
+
+Full-stack e-commerce platform for a traditional food business, handling real customer transactions. Includes product management, cart, checkout, promo codes, order processing, an admin dashboard, Razorpay payments, and email services, deployed to the cloud.
+
+[Website](https://ofoods.co.in) · [Source Code](https://github.com/NamburiVivek/Ofoods26-Ecommerce)
+
+### VoxaBank AI: AI-Powered Banking Assistant
+*Python · NLP · Sentence Transformers · Qwen2.5 · RAG · FastAPI · React.js* · 2026
+
+Banking assistant supporting natural language and voice interactions, with hierarchical intent classification, slot extraction, and dialogue management. Uses RBI-grounded RAG with Qwen2.5 for response generation. Reached **94.87% intent accuracy** and **94.84% macro-F1** on clean test data.
+
+[Source Code](https://github.com/NamburiVivek/Voice-enabled-banking-assistant)
+
+### Autonomous Robot Navigation System (Team Project)
+*Arduino UNO R4 WiFi · Embedded C/C++ · HTML · CSS · JavaScript · BLE* · 2025
+
+Robot supporting obstacle avoidance, line following, and manual control, built around ultrasonic and IR sensors. Includes a web-based Bluetooth Low Energy controller for manual operation.
+
+[Source Code](https://github.com/NamburiVivek/Autonomous-Robot-Navigation-System)
 
 ---
 
+## Research & Publications
+
+**First Author & Presenter** · IEEE International Conference on Next Generation Electronics (NELeX 2026), Vellore
+- Paper: *A Portable LiDAR-Based Adverse Weather Perception System for Four-Wheelers with Multi-Stage Denoising*
+- Built a multi-stage LiDAR denoising and ground-segmentation pipeline for adverse-weather vehicle perception, achieving a **91.7% detection rate** with **85 ms** end-to-end latency.
+- [IEEE Xplore](https://ieeexplore.ieee.org/)
+
+**Co-Author & Presenter** · IEEE International Conference on Emerging Research in Computational Science (ICERCS 2025)
+- Paper: *Livelihood Vulnerability in Rural India: Agricultural Stressors and Technological Interventions from the Semponkudi Study*
+- Research on rural livelihood vulnerability and technology interventions through the Live-in-Labs initiative.
+- [DOI: 10.1109/icercs65898.2025.11580734](https://doi.org/10.1109/icercs65898.2025.11580734)
+
+---
+
+## Certifications
+
+- Machine Learning A-Z: ML, Deep Learning, AI with AWS, Python & R, Udemy (Oct 2026)
+- Natural Language Processing on Google Cloud, Google Cloud
+- Introduction to Generative AI, Google Cloud
+- AI Upskilling Certificate: Hands-On Development from Model to App, Qualcomm Academy
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NamburiVivek&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=1e293b&text_color=334155&icon_color=475569" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamburiVivek&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=1e293b&text_color=334155" alt="Top Languages" />
+
+</div>
+
+---
 
 ## Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-viveknamburi95%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:viveknamburi95@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-viveknamburi95%40gmail.com-1e293b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveknamburi95@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/namburi-vivek-31a60334a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namburi%20Vivek-334155?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namburi-vivek-31a60334a/)
 &nbsp;
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209390626483-25d366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](tel:+919390626483)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209390626483-475569?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919390626483)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:334155&height=60&section=footer" width="100%" alt="" />
